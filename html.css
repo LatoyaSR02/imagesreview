@@ -42,9 +42,12 @@ h3 {
 
 /* Title Tales Section */
 #tales {
-    float: right;
+     float: right; /* Move the element to the right */
     width: 600px;
     border-bottom: solid 1px #000000;
+    position: relative; /* Allows us to move it with top and right */
+    top: -30px; /* Moves the element upwards */
+    right: -30px; /* Moves the element to the right */
 }
 
 /* Let Your Page Inform Section */
