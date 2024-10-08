@@ -37,7 +37,7 @@ h3 {
 /* Looks Matter Section */
 #looks {
     background-color: #FFFF33;
-    float: left;
+    float: right;
     width: 300px;
     padding: 1em;
     margin-right: 1em;
@@ -45,7 +45,7 @@ h3 {
 
 /* Title Tales Section */
 #tales {
-    float: left;
+    float: right;
     width: 600px;
     border-bottom: solid 1px #000000;
 }
