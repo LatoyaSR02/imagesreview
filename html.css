@@ -31,25 +31,23 @@ h3 {
     margin-bottom: 1.5em;
 }
 
+#tales {
+    position: relative; /* Allows the use of top and right for positioning */
+    width: 600px;
+    border-bottom: solid 1px #000000;
+    top: -30px; /* Move the element upwards */
+    right: -30px; /* Move the element to the right */
+    float: right; /* Align this section to the right side */
+}
+
 /* Looks Matter Section */
 #looks {
     background-color: #FFFF33;
-    float: right;
+    float: left; /* Ensures that this section stays on the left */
     width: 300px;
     padding: 1em;
     margin-right: 1em;
 }
-
-/* Title Tales Section */
-#tales {
-     float: right; /* Move the element to the right */
-    width: 600px;
-    border-bottom: solid 1px #000000;
-    position: relative; /* Allows us to move it with top and right */
-    top: -30px; /* Moves the element upwards */
-    right: -30px; /* Moves the element to the right */
-}
-
 /* Let Your Page Inform Section */
 #entertain {
     float: left;
