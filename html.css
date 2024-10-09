@@ -85,8 +85,8 @@ text-align:center;}
 #center{
 	text-align:center;
 }
-.blue-text {
-    color: blue;
+.blue{
+	text-decoration: underline;
+        color: blue;
 }
-
 
