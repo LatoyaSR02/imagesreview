@@ -68,9 +68,9 @@ text-align:center;}
 
 .steve {
     border-right: #009 solid 1px;
-    padding: 0px 2.5em; /* Padding remains the same */
+    padding: 0px 2.5em 0px /* Padding remains the same */
     width: 500px;
-    margin: 0px 0 0 50px; /* Adds 50px of space to the left */
+    margin: 0px 50px; /* Adds 50px of space to the left */
     text-align: right;
     float: right; /* Keeps it aligned to the right */
     font-style: italic;
