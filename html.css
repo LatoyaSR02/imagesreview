@@ -78,8 +78,9 @@ text-align:center;}
 }
 #photo {
 	width:150px;
-	height:100px;
+	height:150px;
 	text-align: center;
+	float:right;
 }
 #center{
 	text-align:center;
