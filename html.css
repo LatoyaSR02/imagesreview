@@ -60,7 +60,7 @@ body {
 	margin-top:3em!important;
 	}
 
-#container1{
+#looks{
 	background-color: #CBC3E3;
 	float: left;
 	width: 300px;
@@ -103,4 +103,11 @@ font-family: "Times New Roman", Times, serif;
 	font-family: "Times New Roman", Times, serif;
 	
 }
+
+.container{
+	background-color: #f9f9f9;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
