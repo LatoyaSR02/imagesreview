@@ -50,7 +50,10 @@ body {
 	margin:0px .8em 0px 0px;}
 	
 #picture {
-	
+float: left;
+	width: 300px;
+	border-right-style: solid;
+	margin:0px .8em 0px 0px;	
 }
 	
 #compete {
@@ -122,7 +125,7 @@ background-image: url('https://i.pinimg.com/736x/e4/02/ef/e402ef2a7b90e2f44984db
     background-image: url('https://i.pinimg.com/736x/e4/02/ef/e402ef2a7b90e2f44984dbe0617aab71.jpg');
     position: absolute;
     top: 100px;  /* Adjust to move it down */
-    right: 0;    /* Aligns it to the right */
+    right: 100px;    /* Aligns it to the right */
 }
 
 	
