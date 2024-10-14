@@ -123,7 +123,7 @@ background-image: url('https://i.pinimg.com/736x/e4/02/ef/e402ef2a7b90e2f44984db
     box-shadow: 2px 4px 8px #C3B1E1;
     background-image: url('https://i.pinimg.com/736x/e4/02/ef/e402ef2a7b90e2f44984dbe0617aab71.jpg');
     position: absolute;
-    top: 750px;  /* Adjust to move it down */
+    top: 800px;  /* Adjust to move it down */
     right: 100px;    /* Aligns it to the right */
 }
 
